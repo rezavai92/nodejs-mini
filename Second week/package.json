@@ -1,0 +1,19 @@
+{
+  "name": "second-week",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create-demo" : "node create.js",
+    "delete-demo" : "node delete.js",
+    "copy-demo" : "node copy demo.js",
+    "rename-demo" : "node rename.js",
+    "calc-hash-demo" : "node calHash.js",
+    "compress-demo" : "node compress.js",
+    "decompress-demo" : "node decompress.js",
+    "list-demo" : "node list.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
